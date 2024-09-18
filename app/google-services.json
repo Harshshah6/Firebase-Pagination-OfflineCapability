@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "102078739186",
+        "project_id": "fir-dbexample-f28d8",
+        "storage_bucket": "fir-dbexample-f28d8.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:102078739186:android:375956d306676a9effd66b",
+                "android_client_info": {
+                    "package_name": "legendary.streamer.firebasedbexample"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAbq4ktHoW0177U4Fsa8zZlrKrEOOch_0c"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
