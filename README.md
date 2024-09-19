@@ -1,6 +1,5 @@
 # Firebase-Pagination-OfflineCapability
-An example project of pagination with offline capability using firebase in android application, written in java | kotlin
-
+An example project of pagination with offline capability using firebase in android application, written in java
 
 ## Dependencies Used (external dependencies)
 Firebase core / realtime database dependency are not listed here, please include the core and db dependency before using below libraries.
